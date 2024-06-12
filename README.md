@@ -59,17 +59,11 @@ WEB-3                 https://learnweb3.io
 
 """)
 ```
-<p align="center">
-  <img width="70%" height="auto" src="https://github-readme-stats.vercel.app/api?username=LuciverXploit&show_icons=true&theme=dark&locale=id">
+
+### MY FAVORIT ✨
+<p>
+  
 </p>
-<p align="center" width="100%" height="auto">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Dapunta.Dapunta&style=flat-square&color=darkgreen"/>
-    <img src="https://img.shields.io/github/followers/Dapunta?style=flat-square&color=blue"/>
-    <img src="https://img.shields.io/github/stars/Dapunta?style=flat-square&color=yellow"/>
-</p>
-<div align="center">
-  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXploit&layout=compact&theme=dark">
-</div>
 <div align="center">
 </div>
 <p align="center">

@@ -2,8 +2,8 @@
 <img src="https://github.com/LuciverXploit/LuciverXploit/blob/main/ade7ba57bd941b801c79128ffc54cd60.jpg" width="120" height="120" align="left">
 <center>
 <p align="">
-  <a href="https://youtube.com/@cyberm_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   <a href="https://github.com/M-Cyber7"><img src="https://img.shields.io/badge/GitHub-454545?style=for-the-badge&logo=github&logoColor=white" /> 
+  <a href="https://youtube.com/@cyberm_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
 
 **Sudah kubilang aku itu saya**
@@ -58,6 +58,9 @@ JAVA                  https://javapoint.com
 WEB-3                 https://learnweb3.io
 
 """)
+```
+```ruby
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 ```
 
 ### MY FAVORIT ✨

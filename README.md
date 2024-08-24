@@ -1,5 +1,5 @@
 ### Hallo Dunia Maya 👋🏻
-<img src="https://github.com/LuciverXploit/LuciverXploit/blob/main/ade7ba57bd941b801c79128ffc54cd60.jpg" width="120" height="120" align="left">
+<img src="https://github.com/x7cyber/x7cyber/blob/main/profil.jpg" width="120" height="120" align="left">
 <center>
 <p align="">
   <a href="https://github.com/x7cyber"><img src="https://img.shields.io/badge/GitHub-454545?style=for-the-badge&logo=github&logoColor=white" /> 

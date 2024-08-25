@@ -1,4 +1,4 @@
-### Hallo Dunia Maya 👋🏻
+### Hello world 🐍
 <img src="https://github.com/x7cyber/x7cyber/blob/main/my-profile.png" width="120" height="120" align="left">
 <center>
 <p align="">
@@ -9,7 +9,7 @@
 **Sudah kubilang aku itu saya**
 ___
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=10&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+github" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=1000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+github" />
 </p>
 
 **Github Tools 🔭**
